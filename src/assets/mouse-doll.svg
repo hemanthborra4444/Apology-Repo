@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 390">
+  <ellipse cx="160" cy="365" rx="92" ry="18" fill="#ddd4e8" opacity=".85"/>
+
+  <!-- round black ears -->
+  <circle cx="88" cy="88" r="56" fill="#17151a"/>
+  <circle cx="232" cy="88" r="56" fill="#17151a"/>
+
+  <!-- head -->
+  <circle cx="160" cy="146" r="92" fill="#17151a"/>
+
+  <!-- classic mouse face shape -->
+  <ellipse cx="132" cy="147" rx="43" ry="62" fill="#f3cda8"/>
+  <ellipse cx="188" cy="147" rx="43" ry="62" fill="#f3cda8"/>
+  <ellipse cx="160" cy="180" rx="58" ry="48" fill="#f3cda8"/>
+
+  <!-- eyes -->
+  <ellipse cx="140" cy="142" rx="9" ry="18" fill="#fff"/>
+  <ellipse cx="180" cy="142" rx="9" ry="18" fill="#fff"/>
+  <ellipse cx="142" cy="148" rx="4.5" ry="9" fill="#17151a"/>
+  <ellipse cx="178" cy="148" rx="4.5" ry="9" fill="#17151a"/>
+
+  <!-- nose / smile -->
+  <ellipse cx="160" cy="175" rx="14" ry="10" fill="#17151a"/>
+  <path d="M136 194 Q160 218 184 194" fill="#a94c52" stroke="#17151a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M145 205 Q160 214 175 205" fill="none" stroke="#f7a0a4" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- body -->
+  <ellipse cx="160" cy="268" rx="63" ry="69" fill="#17151a"/>
+
+  <!-- red shorts -->
+  <path d="M103 270 Q160 250 217 270 L209 329 Q183 342 160 324 Q137 342 111 329 Z" fill="#e24e47" stroke="#17151a" stroke-width="5"/>
+  <circle cx="138" cy="290" r="8" fill="#f7df87"/>
+  <circle cx="182" cy="290" r="8" fill="#f7df87"/>
+
+  <!-- arms -->
+  <path d="M108 245 Q74 260 68 300" fill="none" stroke="#17151a" stroke-width="24" stroke-linecap="round"/>
+  <path d="M212 245 Q246 260 252 300" fill="none" stroke="#17151a" stroke-width="24" stroke-linecap="round"/>
+
+  <!-- gloves -->
+  <circle cx="68" cy="304" r="22" fill="#fff" stroke="#d8d5dc" stroke-width="3"/>
+  <circle cx="252" cy="304" r="22" fill="#fff" stroke="#d8d5dc" stroke-width="3"/>
+  <path d="M57 297 l-9 -10 M65 292 l-2 -14 M76 295 l7 -11" stroke="#d8d5dc" stroke-width="3" stroke-linecap="round"/>
+  <path d="M241 297 l-9 -10 M249 292 l-2 -14 M260 295 l7 -11" stroke="#d8d5dc" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- legs -->
+  <path d="M132 326 L122 350" stroke="#17151a" stroke-width="20" stroke-linecap="round"/>
+  <path d="M188 326 L198 350" stroke="#17151a" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- yellow shoes -->
+  <ellipse cx="111" cy="356" rx="33" ry="17" transform="rotate(-10 111 356)" fill="#f2c94c" stroke="#c79e2b" stroke-width="3"/>
+  <ellipse cx="209" cy="356" rx="33" ry="17" transform="rotate(10 209 356)" fill="#f2c94c" stroke="#c79e2b" stroke-width="3"/>
+</svg>
